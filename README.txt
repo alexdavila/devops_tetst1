@@ -53,3 +53,4 @@ Dichas pruebas se lanzan de manera automática.
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 
 ## Más informacion
+Alejandro Dávila
