@@ -11,11 +11,7 @@
 	</parent>
     <groupId>com.paymentchain</groupId>
     <artifactId>billing</artifactId>
-<<<<<<< HEAD
     <version>0.0.1-SNAPSHOT</version>
-=======
-    <version>0.0.4-SNAPSHOT</version>
->>>>>>> 22548abcfa3429f60aa1848e346aed27c3c4645a
     <packaging>jar</packaging>
 
     <name>billing</name>
